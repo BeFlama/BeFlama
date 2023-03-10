@@ -4,11 +4,11 @@
 <div id="header" align="center">
     <h1 align="center" >Hi 👋 I'm Flor Benitez</h1>
     <h3 align="center">
-        A front end developer, from Argentina. I choose to be in constant learning to create beautiful things
+        A front end developer, from Argentina 🇦🇷. I choose to be in constant learning to create beautiful things
     </h3>
   
   ---
-### :computer: About me:
+### 👩‍💻 About me:
 :mailbox: Contact me on [Gmail] (flor.nao.benz@gmail.com)
 
 :earth_americas: My website : • 404 • :soon:
