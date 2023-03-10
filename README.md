@@ -1,6 +1,4 @@
-  <div>
-    <img src="" alt="banner" height="180" width="100%">
-</div>
+
 <div id="header" align="center">
     <h1 align="center" >Hi 👋 I'm Flor Benitez</h1>
     <h3 align="center">
