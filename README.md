@@ -7,7 +7,7 @@
   
   ---
 ### 👩‍💻 About me:
-:mailbox: Contact me on (flor.nao.benz@gmail.com)
+:mailbox: Contact me on flor.nao.benz@gmail.com
 
 :earth_americas: My website : • 404 • :soon:
 
